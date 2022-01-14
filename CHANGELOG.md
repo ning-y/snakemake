@@ -1,5 +1,12 @@
 # Changelog
 
+## [6.14.0](https://www.github.com/snakemake/snakemake/compare/v6.13.1...v6.14.0) (2022-01-14)
+
+
+### Features
+
+* support for post deploy scripts ([#1325](https://www.github.com/snakemake/snakemake/issues/1325)) ([e5dac4f](https://www.github.com/snakemake/snakemake/commit/e5dac4ff297b7aeeb1e1a0bbdd03cb967cee3011))
+
 ### [6.13.1](https://www.github.com/snakemake/snakemake/compare/v6.13.0...v6.13.1) (2022-01-11)
 
 
